@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://s11.ax1x.com/2024/01/02/pijGn6H.png" width="120" alt="logo" />
-
 <h1 style="font-family: monospace; font-size: 2.4em;">Hi, I'm <span style="color:#06B6D4">BosPrimigenious</span> 👋</h1>
 
 <a href="https://readme-typing-svg.demolab.com/demo/">
@@ -24,14 +22,13 @@
 
 ---
 
-
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/bosprimigenious/who_am_I/blob/main/assets/github-contribution-grid-snake.svg)
 
-
 ---
+
+
 ## 📌 Highlights
 
 ### 🔭 Projects
@@ -69,7 +66,6 @@
 ### 🧰 Tools Familiar With
 
 ![tools](https://skillicons.dev/icons?i=mysql,cs,matlab,docker,git,vscode,nginx&perline=7&theme=dark)
-
 
 ---
 
