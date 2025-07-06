@@ -2,12 +2,14 @@
 
 <h1 style="font-family: monospace; font-size: 2.4em;">Hi, I'm <span style="color:#06B6D4">BosPrimigenious</span> 👋</h1>
 
-<a href="https://readme-typing-svg.demolab.com/demo/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&width=550&lines=🧱+Frontend+Dev+%7C+Minecraft+Modder;🎨+Vue3%2C+TypeScript%2C+C+Lover;🚀+Crafting+code+and+blocks+since+forever" alt="Typing SVG" />
-</a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3EE9F7&width=435&lines=%F0%9F%A7%B1+Frontend+Dev%7CMinecraft+Modder;%F0%9F%8E%A8Vue3%2CTypeScript%2CC+Lover;%F0%9F%9A%80+Crafting+code+and+blocks+since)](https://git.io/typing-svg)
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/bosprimigenious/who_am_I/blob/main/assets/github-contribution-grid-snake.svg)
 ---
 
 ## 🧠 About Me
@@ -20,11 +22,6 @@
 - 💡 Building tools that **help students and inspire developers**
 - 🧠 Website: [bosprimigenious.site](https://bosprimigenious.site)
 
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/bosprimigenious/who_am_I/blob/main/assets/github-contribution-grid-snake.svg)
 
 ---
 
