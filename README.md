@@ -8,7 +8,7 @@
 
 ---
 
-## 🌌 My Vibe Zone
+##  My Vibe Zone
 
 <p align="center">
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="180" />
@@ -20,59 +20,59 @@
 
 
 
-✨ **Fun Facts About Me:**  
-- ⚡ Love tinkering with creative projects and animations  
-- 🎨 Every GIF tells a little story of my coding journey  
-- 🚀 Always chasing that “wow” factor in my work  
+ **Fun Facts About Me:**  
+-  Love tinkering with creative projects and animations  
+-  Every GIF tells a little story of my coding journey  
+-  Always chasing that “wow” factor in my work  
 
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 > _"Making ideas real, one line of code at a time."_  
 > _"Learning to harness AI, rather than being ruled by it."_
 
-- 🌍 From **Beijing, China**  
-- 🎓 CS undergraduate student  
-- 📐 Currently studying **mathematical modeling**  
-- 🧠 Exploring **machine learning**, **deep learning**, and **AI-assisted tools**  
-- 🎯 Passionate about **frontend development**, **education tools**, and **creative coding**  
-- 💡 Building tools that **help students, inspire developers, and leverage AI responsibly**  
-- 🧠 Website: [bosprimigenious.site](https://bosprimigenious.site)
+-  From **Beijing, China**  
+-  CS undergraduate student  
+-  Currently studying **mathematical modeling**  
+-  Exploring **machine learning**, **deep learning**, and **AI-assisted tools**  
+-  Passionate about **frontend development**, **education tools**, and **creative coding**  
+-  Building tools that **help students, inspire developers, and leverage AI responsibly**  
+-  Website: [bosprimigenious.site](https://bosprimigenious.site)
 
 ---
 
 ## 📌 Highlights
 
-### 🔭 Projects
+###  Projects
 
-- 🛠 [STUDYQR](https://github.com/bosprimigenious/STUDYQR): QR-based smart task manager  
-- 🧭 [Notification_Assistant](https://github.com/bosprimigenious/Notification_Assistant): Windows message assistant  
-- 📊 Data tools, Vue apps, and AI/ML experiments (more coming...)
+-  [STUDYQR](https://github.com/bosprimigenious/STUDYQR): QR-based smart task manager  
+-  [Notification_Assistant](https://github.com/bosprimigenious/Notification_Assistant): Windows message assistant  
+-  Data tools, Vue apps, and AI/ML experiments (more coming...)
 
-### 📚 Learning & Interests
+###  Learning & Interests
 
-- 🔍 **Mathematical modeling**, **machine learning**, **deep learning**  
-- 🕹 Creative coding, AI-driven workflows, and tool-building  
-- 📘 Writing dev blogs and design articles  
-- 🤖 Exploring how to **harness AI for creativity and productivity**  
+-  **Mathematical modeling**, **machine learning**, **deep learning**  
+-  Creative coding, AI-driven workflows, and tool-building  
+-  Writing dev blogs and design articles  
+-  Exploring how to **harness AI for creativity and productivity**  
 
 ---
 
-## ⚒️ Tech Stack
+##  Tech Stack
 
 ### 💻 Current
 
 ![stack](https://skillicons.dev/icons?i=vue,ts,react,nodejs,python,cpp,c,figma,ps,linux,vite&perline=7&theme=dark)
 
-### 🧰 Tools Familiar With
+###  Tools Familiar With
 
 ![tools](https://skillicons.dev/icons?i=mysql,cs,matlab,docker,git,vscode,nginx&perline=7&theme=dark)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show_icons=true&theme=tokyonight&hide=issues&count_private=true&border_radius=12" width="48%" />
@@ -81,7 +81,7 @@
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 <div align="center">
   <a href="https://github.com/bosprimigenious/STUDYQR">
@@ -94,26 +94,26 @@
 
 ---
 
-## ✍️ Recent Blog Posts
+##  Recent Blog Posts
 
-📝 From [bosprimigenious.site/blog](https://bosprimigenious.site/blog)
+ From [bosprimigenious.site/blog](https://bosprimigenious.site/blog)
 
-- 🧠 _大学生必备的 AI 工具清单_  
-- ✨ _如何用 Vue3 优雅重构你的组件架构_  
-- ⛏ _用二维码管理学习任务的三种创意方式_  
+-  _大学生必备的 AI 工具清单_  
+-  _如何用 Vue3 优雅重构你的组件架构_  
+-  _用二维码管理学习任务的三种创意方式_  
 
 ---
 
 ## 🧩 Fun Facts
 
-- ⚽ 热爱足球，每场比赛都充满激情  
-- 📸 喜欢摄影，用镜头记录生活和旅行  
-- ✈️ 飞行爱好者（飞友），热衷探索天空的奥秘  
-- 🛩️ 麦道航空迷，对航空历史和飞机设计充满兴趣  
+-  热爱足球，每场比赛都充满激情  
+-  喜欢摄影，用镜头记录生活和旅行  
+-  飞行爱好者（飞友），热衷探索天空的奥秘  
+-  麦道航空迷，对航空历史和飞机设计充满兴趣  
 
 ---
 
-## 🌐 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <a href="https://bosprimigenious.site" target="_blank">
