@@ -2,11 +2,14 @@
 
 <h1 style="font-family: monospace; font-size: 2.4em;">Hi, I'm <span style="color:#06B6D4">BosPrimigenious</span> 👋</h1>
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3EE9F7&width=435&lines=%F0%9F%A7%B1+Frontend+Dev%7CFullstack+Enthusiast;%F0%9F%8E%A8Vue3%2CTypeScript%2CC+Lover;%F0%9F%9A%80+Crafting+code+and+creativity)](https://git.io/typing-svg)
 
 </div>
 
 ---
+<img src="assets/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ##  My Vibe Zone
 
@@ -62,7 +65,7 @@
 
 ##  Tech Stack
 
-### 💻 Current
+###  Current
 
 ![stack](https://skillicons.dev/icons?i=vue,ts,react,nodejs,python,cpp,c,figma,ps,linux,vite&perline=7&theme=dark)
 
