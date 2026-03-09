@@ -8,6 +8,11 @@
 
 <br>
 
+[![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=google-chrome&logoColor=white)](https://bosprimigenious.site)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=flat-square&logo=hashnode&logoColor=white)](https://bosprimigenious.site/blog)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bosprimigenious)
+[![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:bosprimigenious@foxmail.com)
+
 </div>
 
 ---
@@ -15,7 +20,7 @@
 > *Making ideas real, one line of code at a time.*
 > *Learning to harness AI, rather than being ruled by it.*
 
-CS undergraduate at **BUPT Beijing** · focused on frontend architecture, mathematical modeling, and AI-assisted tools.
+CS undergraduate at **Beijing University of Posts and Telecommunications** · frontend architecture, mathematical modeling, AI-assisted tools.
 
 ```yaml
 location  :  Haidian, Beijing, China
@@ -26,15 +31,20 @@ interests :  Aviation · Photography · Football
 
 ---
 
-**Tech Stack**
+### 💫 Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vue,ts,react,nodejs,python,cpp,c,linux,vite,docker,git,nginx,matlab,cs,figma,ps&perline=8&theme=light" />
-</div>
+| Domain | Skills |
+| :--- | :--- |
+| Frontend | ![Vue](https://img.shields.io/badge/-Vue3-000?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite&logoColor=white) |
+| Backend | ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white) |
+| ML / Math | ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-000?style=flat-square&logo=mathworks&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-000?style=flat-square&logo=nvidia&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white) |
+| Design | ![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat-square&logo=adobephotoshop&logoColor=white) |
+| IDE | ![VS Code](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square&logo=cursor&logoColor=white) |
 
 ---
 
-**Stats**
+### 📊 Stats
 
 <div align="center">
 
@@ -46,56 +56,35 @@ interests :  Aviation · Photography · Football
 
 <img width="96%" src="https://streak-stats.demolab.com/?user=bosprimigenious&theme=default&hide_border=true&stroke=F1F5F9&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8&background=ffffff" />
 
-<br>
+</div>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=bosprimigenious&theme=minimal&hide_border=true&bg_color=ffffff&color=0EA5E9&line=0EA5E9&point=0F172A&area=true&area_color=BAE6FD" />
+---
+
+### 🗂 Projects
+
+<div align="center">
+
+<img src="https://github-contrib-stats.vercel.app/bosprimigenious/created.svg" alt="Repos I created" width="96%" />
 
 </div>
 
 ---
 
-**Projects**
+### 🐍 Contributions
 
 <div align="center">
-
-<a href="https://github.com/bosprimigenious/Typst-Matrix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=Typst-Matrix&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=F8FAFC" width="48%" />
-</a>
-<a href="https://github.com/bosprimigenious/bos_css_lib">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=bos_css_lib&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=F8FAFC" width="48%" />
-</a>
-
-<br>
-
-<a href="https://github.com/bosprimigenious/StudyQR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=StudyQR&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=F8FAFC" width="48%" />
-</a>
-<a href="https://github.com/bosprimigenious/BUPT-UWE-BACKEND">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=BUPT-UWE-BACKEND&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=F8FAFC" width="48%" />
-</a>
-
+<img src="https://raw.githubusercontent.com/bosprimigenious/bosprimigenious/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 ---
 
-**Contributions **
+<div align="right">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/bosprimigenious/bosprimigenious/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+<!-- 签名图放这里：<img src="./README.assets/signature.svg" width="160" /> -->
+
 </div>
 
-
 <div align="center">
-
-<a href="https://bosprimigenious.site"><img src="https://img.shields.io/badge/Website-0F172A?style=flat-square&logo=google-chrome&logoColor=0EA5E9&label=" /></a>
-&nbsp;
-<a href="https://bosprimigenious.site/blog"><img src="https://img.shields.io/badge/Blog-0F172A?style=flat-square&logo=hashnode&logoColor=0EA5E9&label=" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/bosprimigenious"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0EA5E9&label=" /></a>
-&nbsp;
-<a href="mailto:bosprimigenious@foxmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=0EA5E9&label=" /></a>
-
-<br><br>
 
 ![](https://komarev.com/ghpvc/?username=bosprimigenious&style=flat-square&color=CBD5E1&label=views)
 
