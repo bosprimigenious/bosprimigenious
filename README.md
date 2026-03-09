@@ -12,6 +12,7 @@
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat-square&logo=hashnode&logoColor=white)](https://bosprimigenious.site/blog)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bosprimigenious)
 [![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:bosprimigenious@foxmail.com)
+![Views](https://komarev.com/ghpvc/?username=bosprimigenious&style=flat-square&color=CBD5E1&label=views)
 
 </div>
 
@@ -28,6 +29,14 @@ focus     :  Vue3 · TypeScript · Python · CUDA
 contest   :  CUMCM 2025 Mathematical Modeling
 interests :  Aviation · Photography · Football
 ```
+
+---
+
+### 🐍 Contributions
+
+<div align="center">
+<img src="./assets/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
 ---
 
@@ -48,9 +57,9 @@ interests :  Aviation · Photography · Football
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-ochre-psi-77.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=6" />
+<img height="160" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=6" />
 
 <br>
 
@@ -70,22 +79,9 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 🐍 Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/bosprimigenious/bosprimigenious/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
----
 
 <div align="right">
 
-<!-- 签名图放这里：<img src="./README.assets/signature.svg" width="160" /> -->
-
-</div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=bosprimigenious&style=flat-square&color=CBD5E1&label=views)
+<img src="./assets/bosprimigenious.svg" width="160" /> 
 
 </div>
