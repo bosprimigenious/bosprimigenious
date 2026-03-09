@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=99999&color=0F172A&center=true&vCenter=true&width=700&lines=BOS+PRIMIGENIOUS" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Fullstack+Enthusiast;CS+%40+BUPT+Beijing;Vue3+·+TypeScript+·+Python;Mathematical+Modeling+%26+AI" alt="Typing" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f8fafc&height=60&section=header&text=Frontend%20Developer%20%7C%20BUPT%20Beijing&fontSize=18&fontColor=475569&fontAlign=50&animation=fadeIn" />
 
 <br>
 
