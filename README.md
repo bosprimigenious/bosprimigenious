@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="./assets/greeting.svg" width="82%" alt="BOS PRIMIGENIOUS · making ideas real · glad we met" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=0F172A&center=true&vCenter=true&width=700&lines=BOS+PRIMIGENIOUS" alt="BOS PRIMIGENIOUS" />
 </div>
+
+<p align="center">
+  <em>making ideas real · glad we met</em>
+</p>
 
 <p align="center">
   <em>Frontend Developer · BUPT Beijing<br />Exploring software, systems &amp; hardware</em>
@@ -63,7 +67,7 @@ interests :  Aviation · Photography · Football
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=6" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
 
 </div>
 
