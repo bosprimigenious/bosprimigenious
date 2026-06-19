@@ -81,6 +81,10 @@ interests :  Aviation · Photography · Football
 
 <img width="96%" src="https://streak-stats.demolab.com/?user=bosprimigenious&theme=default&hide_border=true&stroke=F1F5F9&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8&background=ffffff" />
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bosprimigenious&theme=onedlight&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
