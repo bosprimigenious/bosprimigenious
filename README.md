@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Frontend Developer · BUPT Beijing<br />Exploring software, systems &amp; hardware</em>
+  <em>Full-Stack Developer · BUPT Beijing<br />AI vibe coding · LLM &amp; NLP</em>
 </p>
 
 <div align="center">
@@ -29,11 +29,14 @@
 > *Making ideas real, one line of code at a time.*
 > *Learning to harness AI, rather than being ruled by it.*
 
-CS undergraduate at **Beijing University of Posts and Telecommunications** · frontend architecture, mathematical modeling, AI-assisted tools.
+Full-stack developer · CS undergraduate at **Beijing University of Posts and Telecommunications** · fluent in **AI vibe coding** · researching **LLM** & **NLP**.
 
 ```yaml
 location  :  Haidian, Beijing, China
-focus     :  Vue3 · TypeScript · Python · CUDA
+role      :  Full-Stack Developer
+focus     :  Vue3 · TypeScript · Python · Multi-Agent · LLM Ops
+research  :  LLM · NLP · Agent Systems
+coding    :  AI Vibe Coding (Cursor · Claude Code · Codex)
 contest   :  CUMCM 2025 Mathematical Modeling
 interests :  Aviation · Photography · Football
 ```
@@ -50,27 +53,19 @@ interests :  Aviation · Photography · Football
 
 ### 💫 Tech Stack
 
-```text
-  ┌─ Frontend ──────────────────────────────────────────────────────┐
-  │  Vue 3 · React · TypeScript · Vite · Next.js · Tailwind CSS     │
-  │  Monorepo (pnpm workspace) · ESLint · Prettier · Husky          │
-  ├─ Backend ───────────────────────────────────────────────────────┤
-  │  Python (FastAPI / Flask) · Java (Spring Boot) · Node.js        │
-  │  C / C++ (CUDA)                                                 │
-  ├─ Database & Infra ──────────────────────────────────────────────┤
-  │  PostgreSQL · Redis · Docker · Nginx · GitHub Actions · Linux   │
-  ├─ AI & Agent Engineering ────────────────────────────────────────┤
-  │  Multi-Agent Architecture · A2A Protocol · MCP (FastMCP)        │
-  │  Google ADK · LangGraph · Agent Distillation                    │
-  │  LiteLLM · Prompt Engineering · LLM Ops & Observability       │
-  ├─ ML / Scientific ───────────────────────────────────────────────┤
-  │  PyTorch · Transformers (HuggingFace) · CUDA · MATLAB           │
-  │  scikit-learn · NumPy · SciPy · Pandas                          │
-  ├─ Document & Design ─────────────────────────────────────────────┤
-  │  Typst · LaTeX · Figma · Photoshop                              │
-  └─ IDE & AI Coding ───────────────────────────────────────────────┘
-     VS Code · Cursor · Claude Code · Codex · OpenCode
-```
+| Domain | Skills |
+| :--- | :--- |
+| Frontend | ![Vue](https://img.shields.io/badge/-Vue3-000?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=white) |
+| | ![pnpm](https://img.shields.io/badge/-pnpm-000?style=flat-square&logo=pnpm&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-000?style=flat-square&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-000?style=flat-square&logo=prettier&logoColor=white) ![Husky](https://img.shields.io/badge/-Husky-000?style=flat-square&logoColor=white) |
+| Backend | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white) |
+| | ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-000?style=flat-square&logo=nvidia&logoColor=white) |
+| Database & Infra | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white) |
+| AI & Agent | ![Multi-Agent](https://img.shields.io/badge/-Multi_Agent-000?style=flat-square&logoColor=white) ![A2A](https://img.shields.io/badge/-A2A_Protocol-000?style=flat-square&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000?style=flat-square&logoColor=white) ![Google ADK](https://img.shields.io/badge/-Google_ADK-000?style=flat-square&logo=google&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-000?style=flat-square&logo=langchain&logoColor=white) |
+| | ![Distillation](https://img.shields.io/badge/-Agent_Distillation-000?style=flat-square&logoColor=white) ![LiteLLM](https://img.shields.io/badge/-LiteLLM-000?style=flat-square&logoColor=white) ![Prompt](https://img.shields.io/badge/-Prompt_Engineering-000?style=flat-square&logoColor=white) ![LLM Ops](https://img.shields.io/badge/-LLM_Ops-000?style=flat-square&logoColor=white) |
+| ML / Scientific | ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?style=flat-square&logo=huggingface&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-000?style=flat-square&logo=nvidia&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-000?style=flat-square&logo=mathworks&logoColor=white) |
+| | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?style=flat-square&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-000?style=flat-square&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas&logoColor=white) |
+| Document & Design | ![Typst](https://img.shields.io/badge/-Typst-000?style=flat-square&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-000?style=flat-square&logo=latex&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat-square&logo=adobephotoshop&logoColor=white) |
+| IDE & AI Coding | ![VS Code](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square&logo=cursor&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude_Code-000?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/-Codex-000?style=flat-square&logo=openai&logoColor=white) ![OpenCode](https://img.shields.io/badge/-OpenCode-000?style=flat-square&logoColor=white) |
 
 ---
 
@@ -83,80 +78,6 @@ interests :  Aviation · Photography · Football
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
 
 </div>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.17%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 3,261 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                522 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-🌆 Daytime                3278 commits        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-🌃 Evening                4022 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
-🌙 Night                  3254 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1722 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Tuesday                  1596 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Wednesday                1907 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Thursday                 859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Friday                   962 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Saturday                 1328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Sunday                   2702 commits        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   27 repos            ███████████░░░░░░░░░░░░░░   45.76 % 
-Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-```
-
-
-
-
- Last Updated on 19/06/2026 03:45:03 UTC
-<!--END_SECTION:waka-->
 
 ---
 
