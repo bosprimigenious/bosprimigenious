@@ -14,7 +14,7 @@
   <em>Frontend Developer · BUPT Beijing<br />Exploring software, systems &amp; hardware</em>
 </p>
 
-<p align="center">
+<div align="center">
 
 [![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=google-chrome&logoColor=white)](https://bosprimigenious.site)
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat-square&logo=hashnode&logoColor=white)](https://bosprimigenious.site/blog)
@@ -22,7 +22,7 @@
 [![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:bosprimigenious@foxmail.com)
 ![Views](https://komarev.com/ghpvc/?username=bosprimigenious&style=flat-square&color=CBD5E1&label=views)
 
-</p>
+</div>
 
 ---
 
@@ -50,14 +50,27 @@ interests :  Aviation · Photography · Football
 
 ### 💫 Tech Stack
 
-| Domain | Skills |
-| :--- | :--- |
-| Frontend | ![Vue](https://img.shields.io/badge/-Vue3-000?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite&logoColor=white) |
-| Backend | ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white) |
-| ML / Math | ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-000?style=flat-square&logo=mathworks&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-000?style=flat-square&logo=nvidia&logoColor=white) |
-| DevOps | ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white) |
-| Design | ![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat-square&logo=adobephotoshop&logoColor=white) |
-| IDE | ![VS Code](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat-square&logo=cursor&logoColor=white) |
+```text
+  ┌─ Frontend ──────────────────────────────────────────────────────┐
+  │  Vue 3 · React · TypeScript · Vite · Next.js · Tailwind CSS     │
+  │  Monorepo (pnpm workspace) · ESLint · Prettier · Husky          │
+  ├─ Backend ───────────────────────────────────────────────────────┤
+  │  Python (FastAPI / Flask) · Java (Spring Boot) · Node.js        │
+  │  C / C++ (CUDA)                                                 │
+  ├─ Database & Infra ──────────────────────────────────────────────┤
+  │  PostgreSQL · Redis · Docker · Nginx · GitHub Actions · Linux   │
+  ├─ AI & Agent Engineering ────────────────────────────────────────┤
+  │  Multi-Agent Architecture · A2A Protocol · MCP (FastMCP)        │
+  │  Google ADK · LangGraph · Agent Distillation                    │
+  │  LiteLLM · Prompt Engineering · LLM Ops & Observability       │
+  ├─ ML / Scientific ───────────────────────────────────────────────┤
+  │  PyTorch · Transformers (HuggingFace) · CUDA · MATLAB           │
+  │  scikit-learn · NumPy · SciPy · Pandas                          │
+  ├─ Document & Design ─────────────────────────────────────────────┤
+  │  Typst · LaTeX · Figma · Photoshop                              │
+  └─ IDE & AI Coding ───────────────────────────────────────────────┘
+     VS Code · Cursor · Claude Code · Codex · OpenCode
+```
 
 ---
 
