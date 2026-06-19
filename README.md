@@ -79,6 +79,9 @@ interests :  Aviation · Photography · Football
 
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### 🗂 Featured Projects
