@@ -43,7 +43,7 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 🐍 Contributions
+### <img src="./assets/icons/contributions.svg" width="22" height="22" align="top" alt="" /> Contributions
 
 <div align="center">
 <img src="./assets/github-contribution-grid-snake.svg" width="100%" />
@@ -51,7 +51,7 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 💫 Tech Stack
+### <img src="./assets/icons/tech-stack.svg" width="22" height="22" align="top" alt="" /> Tech Stack
 
 | Domain | Skills |
 | :--- | :--- |
@@ -69,7 +69,7 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 📊 Stats
+### <img src="./assets/icons/stats.svg" width="22" height="22" align="top" alt="" /> Stats
 
 <div align="center">
 
@@ -89,7 +89,7 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 🧭 Current Focus
+### <img src="./assets/icons/current-focus.svg" width="22" height="22" align="top" alt="" /> Current Focus
 
 - Building AI-assisted engineering tools for document generation, evaluation, and research workflows
 - Exploring multi-agent systems, A2A / MCP-style collaboration, and LLM Ops
@@ -98,7 +98,7 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 🗂 Featured Projects
+### <img src="./assets/icons/featured-projects.svg" width="22" height="22" align="top" alt="" /> Featured Projects
 
 <div align="center">
 
