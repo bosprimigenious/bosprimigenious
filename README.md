@@ -68,7 +68,77 @@ interests :  Aviation · Photography · Football
 </div>
 
 <!--START_SECTION:waka-->
-<!-- 此处由 GitHub Actions 自动写入，请勿手动编辑 -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.17%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 3,261 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                522 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌆 Daytime                3278 commits        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+🌃 Evening                4022 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌙 Night                  3254 commits        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1722 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  1596 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                1907 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Thursday                 859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Friday                   962 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Saturday                 1328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Sunday                   2702 commits        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   27 repos            ███████████░░░░░░░░░░░░░░   45.76 % 
+Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+```
+
+
+
+
+ Last Updated on 19/06/2026 03:45:03 UTC
 <!--END_SECTION:waka-->
 
 ---
