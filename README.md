@@ -49,6 +49,13 @@ interests :  Aviation · Photography · Football
 <img src="./assets/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
+### <img src="./assets/icons/current-focus.svg" width="22" height="22" align="top" alt="" /> Current Focus
+
+- Building AI-assisted engineering tools for document generation, evaluation, and research workflows
+- Exploring multi-agent systems, A2A / MCP-style collaboration, and LLM Ops
+- Developing full-stack applications with Vue / React / TypeScript / Python
+- Writing reproducible tooling for mathematical modeling, coursework, and applied research
+
 ---
 
 ### <img src="./assets/icons/tech-stack.svg" width="22" height="22" align="top" alt="" /> Tech Stack
@@ -90,15 +97,6 @@ interests :  Aviation · Photography · Football
 <img src="./assets/metrics-achievements.svg" width="96%" />
 
 </div>
-
----
-
-### <img src="./assets/icons/current-focus.svg" width="22" height="22" align="top" alt="" /> Current Focus
-
-- Building AI-assisted engineering tools for document generation, evaluation, and research workflows
-- Exploring multi-agent systems, A2A / MCP-style collaboration, and LLM Ops
-- Developing full-stack applications with Vue / React / TypeScript / Python
-- Writing reproducible tooling for mathematical modeling, coursework, and applied research
 
 ---
 
