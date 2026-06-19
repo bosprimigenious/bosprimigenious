@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Full-Stack Developer · BUPT Beijing<br />AI vibe coding · LLM &amp; NLP</em>
+  <em>Full-Stack Developer · CS Undergraduate @ BUPT<br />AI-Assisted Engineering · LLM · NLP · Agent Systems</em>
 </p>
 
 <div align="center">
@@ -29,14 +29,14 @@
 > *Making ideas real, one line of code at a time.*
 > *Learning to harness AI, rather than being ruled by it.*
 
-Full-stack developer · CS undergraduate at **Beijing University of Posts and Telecommunications** · fluent in **AI vibe coding** · researching **LLM** & **NLP**.
+Full-stack developer · CS undergraduate at **Beijing University of Posts and Telecommunications** · building **AI-assisted tools**, **full-stack systems**, and **multi-agent applications** · researching **LLM** & **NLP**.
 
 ```yaml
 location  :  Haidian, Beijing, China
 role      :  Full-Stack Developer
 focus     :  Vue3 · TypeScript · Python · Multi-Agent · LLM Ops
 research  :  LLM · NLP · Agent Systems
-coding    :  AI Vibe Coding (Cursor · Claude Code · Codex)
+coding    :  AI-Assisted Engineering (Cursor · Claude Code · Codex)
 contest   :  CUMCM 2025 Mathematical Modeling
 interests :  Aviation · Photography · Football
 ```
@@ -81,11 +81,31 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 🗂 Projects
+### 🗂 Featured Projects
 
 <div align="center">
 
-<img src="https://github-contrib-stats.vercel.app/bosprimigenious/created.svg" alt="Repos I created" width="96%" />
+<a href="https://github.com/bosprimigenious/agentic-rubric-runner">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=agentic-rubric-runner&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+</a>
+<a href="https://github.com/bosprimigenious/ModelingPaperKit">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=ModelingPaperKit&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+</a>
+<a href="https://github.com/bosprimigenious/StudyQR">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=StudyQR&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+</a>
+
+<br>
+
+<a href="https://github.com/bosprimigenious/lab-cover-generator">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=lab-cover-generator&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+</a>
+<a href="https://github.com/bosprimigenious/Protocol-Capture-Lab">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=Protocol-Capture-Lab&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+</a>
+<a href="https://github.com/bosprimigenious/SmartMole_Pro">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=SmartMole_Pro&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+</a>
 
 </div>
 
