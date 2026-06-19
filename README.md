@@ -85,33 +85,25 @@ interests :  Aviation · Photography · Football
 
 ---
 
+### 🧭 Current Focus
+
+- Building AI-assisted engineering tools for document generation, evaluation, and research workflows
+- Exploring multi-agent systems, A2A / MCP-style collaboration, and LLM Ops
+- Developing full-stack applications with Vue / React / TypeScript / Python
+- Writing reproducible tooling for mathematical modeling, coursework, and applied research
+
+---
+
 ### 🗂 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/bosprimigenious/agentic-rubric-runner">
-  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=agentic-rubric-runner&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
-</a>
-<a href="https://github.com/bosprimigenious/ModelingPaperKit">
-  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=ModelingPaperKit&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
-</a>
-<a href="https://github.com/bosprimigenious/StudyQR">
-  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=StudyQR&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
-</a>
-
-<br>
-
-<a href="https://github.com/bosprimigenious/lab-cover-generator">
-  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=lab-cover-generator&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
-</a>
-<a href="https://github.com/bosprimigenious/Protocol-Capture-Lab">
-  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=Protocol-Capture-Lab&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
-</a>
-<a href="https://github.com/bosprimigenious/SmartMole_Pro">
-  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=SmartMole_Pro&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
-</a>
-
-</div>
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| [agentic-rubric-runner](https://github.com/bosprimigenious/agentic-rubric-runner) | Document-grounded PDF generation, rubric evaluation, agent workflow | Python · CLI · Agent Pipeline |
+| [ModelingPaperKit](https://github.com/bosprimigenious/ModelingPaperKit) | Reproducible toolkit for mathematical modeling papers | TeX · Typst · Automation |
+| [StudyQR](https://github.com/bosprimigenious/StudyQR) | Lightweight helper tool for study scenarios | TypeScript · Frontend |
+| [lab-cover-generator](https://github.com/bosprimigenious/lab-cover-generator) | Lab report cover generation and Word export | TypeScript · Document Automation |
+| [Protocol-Capture-Lab](https://github.com/bosprimigenious/Protocol-Capture-Lab) | Computer network protocol capture and analysis | Networking · Wireshark |
+| [SmartMole_Pro](https://github.com/bosprimigenious/SmartMole_Pro) | C-based coursework / systems programming project | C · Systems |
 
 ---
 
