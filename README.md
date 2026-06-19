@@ -83,14 +83,6 @@ interests :  Aviation · Photography · Football
 
 </div>
 
-### GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bosprimigenious&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&v=2" />
-
-</div>
-
 ---
 
 ### <img src="./assets/icons/current-focus.svg" width="22" height="22" align="top" alt="" /> Current Focus
