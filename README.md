@@ -77,7 +77,15 @@ interests :  Aviation · Photography · Football
 &nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
 
+<br>
+
+<img width="96%" src="https://streak-stats.demolab.com/?user=bosprimigenious&theme=default&hide_border=true&stroke=F1F5F9&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8&background=ffffff" />
+
 </div>
+
+---
+
+### 🕘 Development Rhythm
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
