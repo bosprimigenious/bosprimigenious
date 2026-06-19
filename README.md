@@ -83,6 +83,14 @@ interests :  Aviation · Photography · Football
 
 </div>
 
+### Achievements
+
+<div align="center">
+
+<img src="./assets/metrics-achievements.svg" width="96%" />
+
+</div>
+
 ---
 
 ### <img src="./assets/icons/current-focus.svg" width="22" height="22" align="top" alt="" /> Current Focus
