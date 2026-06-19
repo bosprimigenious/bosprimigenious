@@ -57,15 +57,13 @@ interests :  Aviation · Photography · Football
 
 ---
 
-#### 📊 Cool Charts
+### 📊 Stats
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=8)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bosprimigenious&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=bosprimigenious&theme=onedlight&column=4&margin-w=15&margin-h=15&no-bg=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=6" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
 
 </div>
 
