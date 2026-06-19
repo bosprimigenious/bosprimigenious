@@ -85,48 +85,30 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 🕘 Development Rhythm
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                523 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-🌆 Daytime                3288 commits        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-🌃 Evening                4022 commits        █████████░░░░░░░░░░░░░░░░   36.28 % 
-🌙 Night                  3254 commits        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-```
-
-
-
-<!--END_SECTION:waka-->
-
----
-
 ### 🗂 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/bosprimigenious/agentic-rubric-runner">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=agentic-rubric-runner&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=agentic-rubric-runner&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
 </a>
 <a href="https://github.com/bosprimigenious/ModelingPaperKit">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=ModelingPaperKit&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=ModelingPaperKit&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
 </a>
 <a href="https://github.com/bosprimigenious/StudyQR">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=StudyQR&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=StudyQR&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
 </a>
 
 <br>
 
 <a href="https://github.com/bosprimigenious/lab-cover-generator">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=lab-cover-generator&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=lab-cover-generator&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
 </a>
 <a href="https://github.com/bosprimigenious/Protocol-Capture-Lab">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=Protocol-Capture-Lab&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=Protocol-Capture-Lab&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
 </a>
 <a href="https://github.com/bosprimigenious/SmartMole_Pro">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=bosprimigenious&repo=SmartMole_Pro&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
+  <img height="130" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/pin/?username=bosprimigenious&repo=SmartMole_Pro&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff" />
 </a>
 
 </div>
