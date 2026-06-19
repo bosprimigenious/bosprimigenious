@@ -73,9 +73,9 @@ interests :  Aviation · Photography · Football
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=6" />
+<img height="160" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=6" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-ochre-psi-77.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
 
 <br>
 
