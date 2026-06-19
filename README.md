@@ -1,12 +1,16 @@
 <div align="center">
+  <img src="./assets/bosprimigenious.png" width="100%" alt="BOS PRIMIGENIOUS profile banner" />
+</div>
 
-<br>
+<div align="center">
+  <img src="./assets/greeting.svg" width="82%" alt="BOS PRIMIGENIOUS · making ideas real · glad we met" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=99999&color=0F172A&center=true&vCenter=true&width=700&lines=BOS+PRIMIGENIOUS" alt="Name" />
+<p align="center">
+  <em>Frontend Developer · BUPT Beijing<br />Exploring software, systems &amp; hardware</em>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f8fafc&height=60&section=header&text=Frontend%20Developer%20%7C%20BUPT%20Beijing&fontSize=18&fontColor=475569&fontAlign=50&animation=fadeIn" />
-
-<br>
+<p align="center">
 
 [![Website](https://img.shields.io/badge/-Website-000?style=flat-square&logo=google-chrome&logoColor=white)](https://bosprimigenious.site)
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat-square&logo=hashnode&logoColor=white)](https://bosprimigenious.site/blog)
@@ -14,7 +18,7 @@
 [![Email](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:bosprimigenious@foxmail.com)
 ![Views](https://komarev.com/ghpvc/?username=bosprimigenious&style=flat-square&color=CBD5E1&label=views)
 
-</div>
+</p>
 
 ---
 
@@ -53,19 +57,21 @@ interests :  Aviation · Photography · Football
 
 ---
 
-### 📊 Stats
+#### 📊 Cool Charts
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-ochre-psi-77.vercel.app/api?username=bosprimigenious&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats-ochre-psi-77.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=6" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosprimigenious&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&bg_color=ffffff&langs_count=8)
 
-<br>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bosprimigenious&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=default&hide_border=true&title_color=0F172A&text_color=64748B&icon_color=0EA5E9&bg_color=ffffff&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="96%" src="https://streak-stats.demolab.com/?user=bosprimigenious&theme=default&hide_border=true&stroke=F1F5F9&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8&background=ffffff" />
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=bosprimigenious&theme=onedlight&column=4&margin-w=15&margin-h=15&no-bg=true)
 
 </div>
+
+<!--START_SECTION:waka-->
+<!-- 此处由 GitHub Actions 自动写入，请勿手动编辑 -->
+<!--END_SECTION:waka-->
 
 ---
 
