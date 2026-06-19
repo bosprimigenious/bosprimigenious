@@ -83,18 +83,13 @@ interests :  Aviation · Photography · Football
 
 </div>
 
-<details>
-  <summary>GitHub Trophies</summary>
-
-<br />
+### GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bosprimigenious&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=bosprimigenious&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&v=2" />
 
 </div>
-
-</details>
 
 ---
 
